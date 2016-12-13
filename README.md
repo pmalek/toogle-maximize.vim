@@ -15,4 +15,6 @@ or map it in your `~/.vimrc` (or `~/.config/nvim/init.vim` if you use [nvim])
 map <silent> <C-m> :call ToggleMaximizeCurrentWindow()<CR>
 ```
 
+![demo](tty.gif)
+
 [nvim]: https://github.com/neovim/neovim
